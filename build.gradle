@@ -27,8 +27,8 @@ allprojects {
 
     repositories {
         // Make sure that you have the following two repositories
-        mavenCentral()  // Maven Central repository
         google()  // Google's Maven repository
+        mavenCentral()  // Maven Central repository
 
 
     }
